@@ -11,10 +11,10 @@ public class Main{
 	static boolean run = true;
 	
 	//TODO: Optimize more
-	private static final int width = 300;
-	private static final int height = 300;
+	private static final int width = 512;
+	private static final int height = 512;
 	
-	static final int maxRate = 50000;
+	static final int maxRate = 500000;
 	static final int minRate = 10;
 	static int rate = 100;
 	
